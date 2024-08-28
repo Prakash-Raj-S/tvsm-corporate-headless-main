@@ -1,0 +1,68 @@
+﻿---
+ID: "72134b14-4a47-40d6-8a42-577d9561f5fa"
+Parent: "3137f27c-9db6-45a6-8a9c-5288e34b0a66"
+Template: "5d86a188-792c-4efa-b338-a20e0614d36e"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/FooterCategory/SCOOTERS/jupiter 125"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T105716Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "febce825-8e85-4cbf-9ec5-f2f69c21e57b"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{EE03A84A-0352-448D-AAA4-BA76967E5933}" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: Jupiter 125
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240319T105935Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T105716Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f73c2df1-a6bd-49a8-8b7e-f77493043161"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.tvsmotor.com/tvs-jupiter-125/smartxonnect" anchor="" target="" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: Jupiter 125
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T061636Z

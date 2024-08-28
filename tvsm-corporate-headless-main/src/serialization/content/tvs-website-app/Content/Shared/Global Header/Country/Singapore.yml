@@ -1,0 +1,30 @@
+﻿---
+ID: "c42b3bb0-e041-42ec-8abb-026e51785a09"
+Parent: "25a7563c-7d45-4ca7-a8ba-8136d4e210a1"
+Template: "6e3e72e1-3f08-420a-aa3e-8611b84c91e6"
+Path: "/sitecore/content/tvs-website-app/Content/Shared/Global Header/Country/Singapore"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240302T181021Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6ed59858-7ade-4b74-9bbc-c4ae9b316cb9"
+      Hint: NavigationTitle
+      Value: Singapore
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f3ae2d0-f89a-4c8f-b740-a297fe80453c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240302T181021Z

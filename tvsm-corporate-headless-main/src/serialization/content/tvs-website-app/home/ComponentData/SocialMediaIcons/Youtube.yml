@@ -1,0 +1,74 @@
+﻿---
+ID: "b5976b2f-a998-408d-a566-97b85ad37f54"
+Parent: "6bfb5be9-9689-43f1-bf33-6bddcabb1c72"
+Template: "14501da7-f1e2-4cf2-962c-33744fbf519f"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/SocialMediaIcons/Youtube"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22d41536-a1f1-4527-a15e-5cfd7d6229c2"
+      Hint: IconImg
+      Value: |
+        <image mediaid="{52592FEC-D4BB-42B5-A171-0DD0F3375FAD}" />
+    - ID: "25109572-e962-4215-b760-a2902b67d871"
+      Hint: IconLink
+      Value: |
+        <link linktype="external" url="https://www.youtube.com/channel/UCmXFdsJtTAbbYrH7zz-lkkw" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240322T085047Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "610f5630-d7e4-46c8-8856-c1aed8bad999"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240322T090135Z
+  - Version: 2
+    Fields:
+    - ID: "22d41536-a1f1-4527-a15e-5cfd7d6229c2"
+      Hint: IconImg
+      Value: |
+        <image mediaid="{9BAD4943-7672-4023-AAAE-82FA43FD9837}" />
+    - ID: "25109572-e962-4215-b760-a2902b67d871"
+      Hint: IconLink
+      Value: |
+        <link linktype="external" url="https://www.youtube.com/channel/UCmXFdsJtTAbbYrH7zz-lkkw" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240322T085047Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d061f840-7d64-4740-af6b-139caf162367"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T064237Z

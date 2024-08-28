@@ -1,0 +1,40 @@
+{
+    "namespace": "tvs-website-app",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/tvs-website-app"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/tvs-website-app"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/tvs-website-app"
+            },
+            {
+                "name": "feature-renderings",
+                "path": "/sitecore/layout/Renderings/Feature/Tvs Headless"
+            },
+            {
+                "name": "foundation-renderings",
+                "path": "/sitecore/layout/Renderings/Foundation/Tvs Headless"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/tvs-website-app"
+            },
+            {
+                "name": "feature-templates",
+                "path": "/sitecore/templates/Feature/Tvs Headless"
+            },
+            {
+                "name": "foundation-templates",
+                "path": "/sitecore/templates/Foundation/Tvs Headless"
+            }
+        ]
+    }
+}

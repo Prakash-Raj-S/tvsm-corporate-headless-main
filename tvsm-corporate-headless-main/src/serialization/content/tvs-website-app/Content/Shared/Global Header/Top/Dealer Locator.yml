@@ -1,0 +1,44 @@
+﻿---
+ID: "c952dee2-2ac9-41ef-aea3-4fb72efae56f"
+Parent: "8f87d8ca-7352-40b6-9490-9c4a1600f7dd"
+Template: "0b17ea2e-772c-429b-9d18-c085b51cb6a8"
+Path: "/sitecore/content/tvs-website-app/Content/Shared/Global Header/Top/Dealer Locator"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07e09b28-6634-4612-9a3d-abefff1864fd"
+      Hint: NavigationClassName
+      Value: "icon-location"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240302T175338Z
+    - ID: "55de327a-f17a-46cc-9e08-be211b4721c1"
+      Hint: NavigationLink
+      Value: |
+        <link linktype="external" url="/tvs-dealer-locator" anchor="" target="_blank" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6c525f1d-cdc8-4347-9456-53d10cb0ecb9"
+      Hint: ShowOnDesktop
+      Value: 1
+    - ID: "6ed59858-7ade-4b74-9bbc-c4ae9b316cb9"
+      Hint: NavigationTitle
+      Value: Dealer Locator
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "982b419e-e036-4781-b139-fdec91b1a5f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240321T132047Z

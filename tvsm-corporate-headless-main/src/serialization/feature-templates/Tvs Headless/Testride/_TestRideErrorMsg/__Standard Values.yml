@@ -1,0 +1,73 @@
+﻿---
+ID: "2ca8ffe3-457e-4fec-8e83-29d4604e17e6"
+Parent: "34191e5d-0da4-4449-94f5-876927e50c01"
+Template: "34191e5d-0da4-4449-94f5-876927e50c01"
+Path: /sitecore/templates/Feature/Tvs Headless/Testride/_TestRideErrorMsg/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "084c1e31-c996-4347-8c06-20d7af6262e3"
+      Hint: ErrorMsgMobileFormat
+      Value: Enter a valid 10 digit Mobile.
+    - ID: "09d9b2ef-b32d-4be4-abed-a884f1558d47"
+      Hint: ErrMsgAttemptsLeft
+      Value: "There are {#} attempts left."
+    - ID: "19990a2d-9987-4611-bc46-2bba2d9ee7b1"
+      Hint: ErrMsgMobileRequired
+      Value: Mobile is required.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240311T122020Z
+    - ID: "37ae08a6-d64b-4cd2-b167-5821f7d4476f"
+      Hint: ErrMsgInvalidOTP
+      Value: OTP is invalid.
+    - ID: "44a62f6b-fee0-46dd-8f1a-20bc950882a4"
+      Hint: ErrMsgVehicleRequired
+      Value: Vehicle is required.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6958ed36-1920-4740-8e32-1a97eef3e0c9"
+      Hint: ErrMsgNameMinLength
+      Value: Name should be minimum 3 characters.
+    - ID: "6d7b2471-33fc-44d3-a4e5-58e1b1086e05"
+      Hint: ErrMsgLocationRequired
+      Value: Location is required.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ced39abc-d2f8-4f84-a849-1ac8a16a6748"
+    - ID: "a28f6068-4305-4a5c-9e8c-2de8c9438969"
+      Hint: ErrMsgBlocked
+      Value: "You are blocked for next {#} minutes."
+    - ID: "b2947228-856d-4fc0-bf8d-78bf13311fc8"
+      Hint: ErrMsgEmailFormat
+      Value: Enter a valid email.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d15aba50-e9f6-4ee7-babf-b478a2edfcd4"
+      Hint: ErrMsgNameRequired
+      Value: Name is required.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240313T120237Z
+    - ID: "e0fffb93-34fa-4fb8-9e77-370b94b403d1"
+      Hint: ErrMsgDealerRequired
+      Value: Dealer is required.
+    - ID: "f6094399-77a1-487d-824e-0b4dbd1b5c8a"
+      Hint: ErrMsgVariantRequired
+      Value: Variant is required.
+    - ID: "f8b3ec4a-31f9-4653-8fa7-1206db647e16"
+      Hint: ErrMsgNameFormat
+      Value: Name should have only alphabets
+    - ID: "fc79958d-f5a3-41b4-a3a3-493b929edc40"
+      Hint: ErrMsgInvalidLocation
+      Value: Enter a valid location.

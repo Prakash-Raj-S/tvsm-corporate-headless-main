@@ -1,0 +1,23 @@
+﻿---
+ID: "b524daa4-19a6-49cf-b0a8-ae1459f7f62a"
+Parent: "bbf4d37d-65b8-412e-8731-fd806e16bc7e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Tvs Headless/Content Type/_deviceCheck/DeviceCheck
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240321T131335Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90cd2f6b-6eee-4777-bf82-baf91d5999b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240321T131747Z

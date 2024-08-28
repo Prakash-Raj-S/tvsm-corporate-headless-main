@@ -1,0 +1,55 @@
+﻿---
+ID: "98f69911-8a61-542b-a818-fdfd84802a87"
+Parent: "d1e326c3-578b-5498-964f-d27626e7bbd5"
+Template: "e92e760c-42d8-5eee-8867-b08efa7d9ff3"
+Path: "/sitecore/content/tvs-website-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ItemLink-10"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03c41a64-50e8-5eab-886a-c9a4e7505ee6"
+      Hint: heading
+      Value: Item Link
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240219T091900Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82316376-0b75-4789-ae0f-af0209b9f088"
+    - ID: "91ccffa8-4c33-5e8d-864d-24482c02cfdf"
+      Hint: localItemLink
+      Value: "{AABA7644-9DCF-5C42-B061-F1ADD0230B85}"
+    - ID: "98a10687-7754-541e-b03e-8d0d329a5b75"
+      Hint: sharedItemLink
+      Value: "{1BF011F9-C7EB-5402-B826-8A7E31F21A3C}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c503e615-3a96-539a-9f6d-d6f0ad063c67"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Item Links are a way to reference another content item to use data from it.
+            Referenced items may be shared.
+            To reference multiple content items, use a <em>Content List</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Item Link fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240219T091900Z

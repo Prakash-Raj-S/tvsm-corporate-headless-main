@@ -1,0 +1,72 @@
+﻿---
+ID: "a34b0ee7-415b-4b9a-a440-03a510cbc222"
+Parent: "10980587-5f20-463d-9a36-29bc5673902d"
+Template: "5d86a188-792c-4efa-b338-a20e0614d36e"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/FooterCategory/MOTORCYCLES/Raider"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T102936Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "465495ce-84f2-4c81-a62c-5f95a7a23328"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{3F070EA2-E1B9-4189-AF9F-A05A54013D1E}" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: Raider
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240319T105554Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T102936Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "910f6bab-a882-496c-8a74-d79530f90006"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.tvsmotor.com/tvs-raider" anchor="" target="" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: Raider
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T061438Z

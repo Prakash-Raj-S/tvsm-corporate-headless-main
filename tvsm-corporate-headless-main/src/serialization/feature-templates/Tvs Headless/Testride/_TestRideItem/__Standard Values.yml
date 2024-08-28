@@ -1,0 +1,40 @@
+﻿---
+ID: "a83f4cd2-ea79-4893-ae83-74010244104b"
+Parent: "cfd7ad4b-ea27-4ec6-91ee-ea34b1a4d4b7"
+Template: "cfd7ad4b-ea27-4ec6-91ee-ea34b1a4d4b7"
+Path: /sitecore/templates/Feature/Tvs Headless/Testride/_TestRideItem/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240311T122020Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6e1e09f9-e43e-48f8-9d73-9bc2082569b3"
+      Hint: Description
+      Value: Name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20ea3205-b5ec-4f73-80cb-7c0224bc6e0d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ce722ba7-7568-46d3-9621-4f38d2fdae93"
+      Hint: MobileImage
+      Value: Book A Test Ride
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240311T122710Z
+    - ID: "fc59e4ad-d461-4c11-a929-48dde7a4ee98"
+      Hint: Title
+      Value: To book your test ride now, kindly fill in your information below.

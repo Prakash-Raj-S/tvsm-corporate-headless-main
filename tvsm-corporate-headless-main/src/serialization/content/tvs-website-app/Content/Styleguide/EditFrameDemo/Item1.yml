@@ -1,0 +1,37 @@
+﻿---
+ID: "8cbf51f3-aa75-565d-a86c-7b0106640842"
+Parent: "4773d489-8a36-555d-8bf3-6c5f92aeb314"
+Template: "f4aa0f4d-f590-58d5-b383-e47e46e57ed1"
+Path: "/sitecore/content/tvs-website-app/Content/Styleguide/EditFrameDemo/Item1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: EditFrame Demo List Item 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240219T091856Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8b56d924-8700-5c3b-b197-62e367cde9dc"
+      Hint: title
+      Value: Edit Frame Demo List Item 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91c26e5d-8e71-4d84-980d-cfcfd48404d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240219T091856Z

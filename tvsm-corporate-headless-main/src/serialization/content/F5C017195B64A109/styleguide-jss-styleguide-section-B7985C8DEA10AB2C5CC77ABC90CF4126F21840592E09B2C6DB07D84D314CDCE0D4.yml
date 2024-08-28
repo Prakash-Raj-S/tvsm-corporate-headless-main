@@ -1,0 +1,59 @@
+﻿---
+ID: "ab9e7084-bfc9-5fc5-ae0f-09d3df1daf77"
+Parent: "d1e326c3-578b-5498-964f-d27626e7bbd5"
+Template: "76aae16c-c1b4-55ff-90b1-2f724361565f"
+Path: "/sitecore/content/tvs-website-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03c41a64-50e8-5eab-886a-c9a4e7505ee6"
+      Hint: heading
+      Value: Content List
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240219T091900Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "73101a7f-84bf-5faa-a96e-5d884f7fafe2"
+      Hint: localContentList
+      Value: |
+        {F2C8C4F5-8F70-5D9E-935A-E7457729D863}
+        {8B92F88B-353D-5986-A4A3-BB29DCCC843D}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c20ccd7-3538-4a49-9250-f17928e3d2dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "c503e615-3a96-539a-9f6d-d6f0ad063c67"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240219T091900Z
+    - ID: "df524851-4907-58df-aec0-c32d577c1169"
+      Hint: sharedContentList
+      Value: |
+        {7C467E78-D46A-511D-88B8-5C661A9A9633}
+        {990EFDAD-1693-5E09-BDB2-C82120603E11}

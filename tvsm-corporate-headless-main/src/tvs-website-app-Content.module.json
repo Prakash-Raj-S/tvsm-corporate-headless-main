@@ -1,0 +1,16 @@
+{
+    "namespace": "tvs-website-app-Content",
+    "references": [ "tvs-website-app" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/tvs-website-app"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/tvs-website-app"
+            }
+        ]
+    }
+}

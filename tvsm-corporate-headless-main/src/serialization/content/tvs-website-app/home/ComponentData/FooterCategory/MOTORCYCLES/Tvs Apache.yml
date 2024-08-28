@@ -1,0 +1,84 @@
+﻿---
+ID: "67c7f706-8db3-409c-88ea-18527aabfbea"
+Parent: "10980587-5f20-463d-9a36-29bc5673902d"
+Template: "5d86a188-792c-4efa-b338-a20e0614d36e"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/FooterCategory/MOTORCYCLES/Tvs Apache"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04d40859-20c2-4b85-836c-72f0a5d9cf87"
+      Hint: ChildList
+      Value: |
+        {F61AF673-011A-4548-9920-EC7960A437F1}
+        {0A68B7E3-279D-48DF-89CC-D831A44B251A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T102936Z
+    - ID: "46491e26-1edf-465f-af3b-a9db1f766c45"
+      Hint: HasChildLevelNav
+      Value: 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "671dfba2-f7a4-414e-a9ef-ab5d3a1f3b11"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A59253F7-9DAA-4E63-9D55-017F7826AEF0}" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: TVS Apache
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240325T062402Z
+  - Version: 2
+    Fields:
+    - ID: "04d40859-20c2-4b85-836c-72f0a5d9cf87"
+      Hint: ChildList
+      Value: |
+        {F61AF673-011A-4548-9920-EC7960A437F1}
+        {0A68B7E3-279D-48DF-89CC-D831A44B251A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T102936Z
+    - ID: "46491e26-1edf-465f-af3b-a9db1f766c45"
+      Hint: HasChildLevelNav
+      Value: 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc30fc32-56d8-4702-a1e7-650e2715483c"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.tvsmotor.com/tvs-apache" anchor="" target="" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: TVS Apache
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T061000Z

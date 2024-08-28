@@ -1,0 +1,27 @@
+.brandheroSlider {
+    .slick-dots {
+        bottom: 70px;
+        li {
+            button {
+                width: 10px;
+                height: 10px;
+                &:before {
+                    border-radius: 20px;
+                    background: #fff;
+                    height: 10px;
+                    width: 10px;
+                    opacity: 1;
+                    color: transparent;
+                }
+            }
+            &.slick-active {
+                button {
+                    &:before {
+                        background: #01a0c6;
+                        color: transparent;
+                    }
+                }
+            }
+        }
+    }
+}

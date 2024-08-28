@@ -1,0 +1,59 @@
+$primary-color: #007bff;
+$hover-color: #0056b3;
+$background-color: #f8f9fa;
+$border-color: #ced4da;
+
+.testride-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+  background-color: $background-color;
+
+  label {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  input,
+  select {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid $border-color;
+  }
+
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: $primary-color;
+    color: white;
+    cursor: pointer;
+
+    &:hover {
+      background-color: $hover-color;
+    }
+  }
+}
+
+.suggestions {
+  position: absolute;
+  background-color: white;
+  border: 1px solid $border-color;
+  border-radius: 5px;
+  width: 100%;
+  z-index: 1;
+
+  div {
+    padding: 10px;
+    cursor: pointer;
+
+    &:hover {
+      background-color: $background-color;
+    }
+  }
+}

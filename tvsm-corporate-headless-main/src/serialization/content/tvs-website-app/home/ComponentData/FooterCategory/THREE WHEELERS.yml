@@ -1,0 +1,60 @@
+﻿---
+ID: "c46c895d-0de3-4aea-bd83-7bc499513664"
+Parent: "64e03365-cdcd-428b-ade9-6608008b51ab"
+Template: "bd3e876f-ae5c-4128-93e4-3e2f36bb596b"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/FooterCategory/THREE WHEELERS"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe76b3a-3a16-461e-9744-e25722c06900"
+      Hint: CategoryName
+      Value: THREE WHEELERS
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T102134Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2665e963-f419-41da-9a70-62e101b722cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240320T101406Z
+  - Version: 2
+    Fields:
+    - ID: "1fe76b3a-3a16-461e-9744-e25722c06900"
+      Hint: CategoryName
+      Value: THREE WHEELERS
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T102134Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2665e963-f419-41da-9a70-62e101b722cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240320T101406Z

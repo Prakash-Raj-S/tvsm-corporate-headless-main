@@ -1,0 +1,82 @@
+﻿---
+ID: "10980587-5f20-463d-9a36-29bc5673902d"
+Parent: "64e03365-cdcd-428b-ade9-6608008b51ab"
+Template: "bd3e876f-ae5c-4128-93e4-3e2f36bb596b"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/FooterCategory/MOTORCYCLES"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{5D86A188-792C-4EFA-B338-A20E0614D36E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe76b3a-3a16-461e-9744-e25722c06900"
+      Hint: CategoryName
+      Value: MOTORCYCLES
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T102134Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "66bbd378-cbe1-4a33-9297-254ea08797e7"
+      Hint: HasFirstChildLevelNav
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed323545-02ca-4e41-a5be-1c770027a0c4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "c2005490-960c-47ab-a565-d5f0f632beb6"
+      Hint: FirstChildList
+      Value: |
+        {A34B0EE7-415B-4B9A-A440-03A510CBC222}
+        {F28ABAC9-34B5-40E1-B706-E0A3A849BE83}
+        {67C7F706-8DB3-409C-88EA-18527AABFBEA}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240325T062339Z
+  - Version: 2
+    Fields:
+    - ID: "1fe76b3a-3a16-461e-9744-e25722c06900"
+      Hint: CategoryName
+      Value: MOTORCYCLES
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T102134Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "66bbd378-cbe1-4a33-9297-254ea08797e7"
+      Hint: HasFirstChildLevelNav
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed323545-02ca-4e41-a5be-1c770027a0c4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "c2005490-960c-47ab-a565-d5f0f632beb6"
+      Hint: FirstChildList
+      Value: |
+        {A34B0EE7-415B-4B9A-A440-03A510CBC222}
+        {F28ABAC9-34B5-40E1-B706-E0A3A849BE83}
+        {67C7F706-8DB3-409C-88EA-18527AABFBEA}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240325T062339Z

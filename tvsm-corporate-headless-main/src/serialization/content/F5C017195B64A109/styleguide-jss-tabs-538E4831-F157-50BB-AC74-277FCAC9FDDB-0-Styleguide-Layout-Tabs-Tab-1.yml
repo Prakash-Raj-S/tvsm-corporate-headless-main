@@ -1,0 +1,40 @@
+﻿---
+ID: "4220ad3c-2126-570d-b383-d25d58368191"
+Parent: "d1e326c3-578b-5498-964f-d27626e7bbd5"
+Template: "f2f7a4b5-0fbb-580e-ab21-2103b65014a1"
+Path: "/sitecore/content/tvs-website-app/home/styleguide/Page Components/styleguide-jss-tabs-538E4831-F157-50BB-AC74-277FCAC9FDDB-0-Styleguide-Layout-Tabs-Tab-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Layout-Tabs-Tab-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240219T091901Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "62f0d86d-38ae-5031-a397-8c13f8a612f1"
+      Hint: content
+      Value: "<p>Tab 1 contents!</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3142604e-3aea-4dbf-9c8f-0ce0e6ad1109"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240219T091901Z
+    - ID: "f008b058-17c2-5805-bdae-d50e27e1791f"
+      Hint: title
+      Value: Tab 1

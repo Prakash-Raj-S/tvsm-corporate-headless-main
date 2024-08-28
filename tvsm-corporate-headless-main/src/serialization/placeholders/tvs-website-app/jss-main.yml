@@ -1,0 +1,52 @@
+﻿---
+ID: "67622857-b107-5bf9-abe9-87df80fb6680"
+Parent: "15635357-2499-5563-97d8-a356a9b125da"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/tvs-website-app/jss-main"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-main"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {15A6B900-4576-5849-8AE1-3080EA0DEE0C}
+    {9DBF43EB-DE03-53EE-8F19-2A38413F82A5}
+    {FD0CC72F-AB0F-5468-86F5-0AF0EF0C069E}
+    {1DE04321-A094-5663-AD62-8850CB8DD0A2}
+    {39684655-E87D-4011-9D29-DDC744EE19E9}
+    {281DC346-A458-46C6-BCFD-123E967CC563}
+    {3FB5F50F-39C9-45CA-854E-DB0C6821F6E2}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240219T091850Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08a36e69-f21f-4ece-ae3f-a27a6cbfdb1d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240311T115756Z

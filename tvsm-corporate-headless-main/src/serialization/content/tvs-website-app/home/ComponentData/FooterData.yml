@@ -1,0 +1,548 @@
+﻿---
+ID: "6953214d-b345-4c45-89b6-85519392b5cd"
+Parent: "938198bf-3ef8-4855-a86e-e0f5eb779fdc"
+Template: "63c5cbc6-83fb-4206-ba9c-b3ad886698d6"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/FooterData"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ecce211-93bc-4257-aeb1-d440aa98f900"
+      Hint: SocialHeader
+      Value: FOLLOW US
+    - ID: "1f98d945-a5da-4fe4-afa8-abd46c90030b"
+      Hint: TelIcon
+      Value: |
+        <image mediaid="{4259F4CA-37A4-4098-835A-0E4C8A3892D9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240318T113400Z
+    - ID: "2ce1a4ee-5039-4e8b-a136-82cf719b62da"
+      Hint: GoogleStoreLink
+      Value: |
+        <link linktype="external" url="https://play.google.com/store/apps/details?id=com.tvsm.connect&amp;hl=en&amp;pli=1" anchor="" target="_blank" />
+    - ID: "2e3bb3cc-5806-43ff-8bae-5d511c7cbfe5"
+      Hint: IconList
+      Value: |
+        {2C6F0A70-4B80-4929-B299-B21E0162780E}
+        {CFA1F9AF-2436-4B40-B810-76E20302813E}
+        {43D341A8-FF3E-415F-86D3-9BEAB54D9EE6}
+        {FB2383C1-F33B-4B9E-9FB4-0BE8E7F4A207}
+        {B5976B2F-A998-408D-A566-97B85AD37F54}
+    - ID: "459fd2f3-6807-490d-9be1-b4e821121d63"
+      Hint: body
+      Value: |
+        <div class="col-md-6 country-dropdown">
+        <div class="country">
+        <div id="countryMobileFooter" class="select f16">
+        <a class="flag in">IND</a>
+        </div>
+        <div id="countryMobileFooter-drop" class="dropdown" style="display: none;">
+        <ul class="f16">
+            <li class="active">
+            <a class="flag in" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="India">INDIA</a>
+            </li>
+            <li>
+            <a class="flag arg" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Argentina">Argentina</a>
+            </li>
+            <li>
+            <a class="flag bj" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Benin">Benin</a>
+            </li>
+            <li>
+            <a class="flag bf" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Burkina Faso">Burkina Faso</a>
+            </li>
+            <li>
+            <a class="flag bg" href="http://www.tvsabl.com/" target="_blank" rel="noopener noreferrer" title="Bangladesh">Bangladesh</a>
+            </li>
+            <li>
+            <a class="flag bol" href="https://www.tvsmotor.com/en/bo" target="_blank" rel="noopener noreferrer" title="Bolivia">Bolivia</a>
+            </li>
+            <li>
+            <a class="flag bi" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Burundi">Burundi</a>
+            </li>
+            <li>
+            <a class="flag cr" href="https://www.tvsmotor.com/en/cr" target="_blank" rel="noopener noreferrer" title="Costa Rica ">Costa Rica </a>
+            </li>
+            <li>
+            <a class="flag cd" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Congo DR">Congo DR</a>
+            </li>
+            <li>
+            <a class="flag co" href="https://www.tvsmotor.com/en/co" target="_blank" rel="noopener noreferrer" title="Colombia">Colombia</a>
+            </li>
+            <li>
+            <a class="flag cl" href="https://tvsmotor.cl/" target="_blank" rel="noopener noreferrer" title="Chile">Chile</a>
+            </li>
+            <li>
+            <a class="flag do" href="https://tvsmotor.com.do/" target="_blank" rel="noopener noreferrer" title="Dominican Republic">Dominican Republic</a>
+            </li>
+            <li>
+            <a class="flag ec" href="https://www.tvsmotor.com/en/ec" target="_blank" rel="noopener noreferrer" title="Ecuador">Ecuador</a>
+            </li>
+            <li>
+            <a class="flag et" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Ethiopia">Ethiopia</a>
+            </li>
+            <li>
+            <a class="flag eg" href="https://www.tvsmotor.com/ar/eg" target="_blank" rel="noopener noreferrer" title="Egypt">Egypt</a>
+            </li>
+            <li>
+            <a class="flag sl" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="El Salvador">El Salvador</a>
+            </li>
+            <li>
+            <a class="flag geo" href="http://tvsgeorgia.ge/en/" target="_blank" rel="noopener noreferrer" title="Georgia">Georgia</a>
+            </li>
+            <li>
+            <a class="flag gh" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Ghana">Ghana</a>
+            </li>
+            <li>
+            <a class="flag gn" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Guinea">Guinea</a>
+            </li>
+            <li>
+            <a class="flag gt" href="https://www.tvsmotor.com/en/gt" target="_blank" rel="noopener noreferrer" title="Guatemala">Guatemala</a>
+            </li>
+            <li>
+            <a class="flag ht" href="https://www.tvsmotor.com/en/ht" target="_blank" rel="noopener noreferrer" title="Haiti">Haiti</a>
+            </li>
+            <li>
+            <a class="flag hn" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Honduras">Honduras</a>
+            </li>
+            <li>
+            <a class="flag iq" href="https://www.tvsmotor.com/en/iq" target="_blank" rel="noopener noreferrer" title="Iraq">Iraq</a>
+            </li>
+            <li>
+            <a class="flag ke" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Kenya">Kenya</a>
+            </li>
+            <li>
+            <a class="flag kw" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Kuwait">Kuwait</a>
+            </li>
+            <li>
+            <a class="flag lr" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Liberia">Liberia</a>
+            </li>
+            <li>
+            <a class="flag mg" href="https://www.tvsmotor.com/en/mg" target="_blank" rel="noopener noreferrer" title="Madagascar">Madagascar</a>
+            </li>
+            <li>
+            <a class="flag ml" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Mali">Mali</a>
+            </li>
+            <li>
+            <a class="flag mr" href="https://www.tvsmotor.com/en/mr" target="_blank" rel="noopener noreferrer" title="Mauritania">Mauritania</a>
+            </li>
+            <li>
+            <a class="flag mx" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Mexico">Mexico</a>
+            </li>
+            <li>
+            <a class="flag mm" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Myanmar">Myanmar</a>
+            </li>
+            <li>
+            <a class="flag np" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Nepal">Nepal</a>
+            </li>
+            <li>
+            <a class="flag ni" href="https://www.tvsmotor.com/es/ni" target="_blank" rel="noopener noreferrer" title="Nigeria">Nigeria</a>
+            </li>
+            <li>
+            <a class="flag ng" href="https://tvsnigeria.com/" target="_blank" rel="noopener noreferrer" title="Nigeria">Nigeria</a>
+            </li>
+            <li>
+            <a class="flag pa" href="https://www.tvsmotor.com/es/pa" target="_blank" rel="noopener noreferrer" title="Panama">Panama</a>
+            </li>
+            <li>
+            <a class="flag pe" href="https://tvsperu.com/" target="_blank" rel="noopener noreferrer" title="Peru">Peru</a>
+            </li>
+            <li>
+            <a class="flag ph" href="https://www.tvsmotor.com/en/ph" target="_blank" rel="noopener noreferrer" title="Philippines">Philippines</a>
+            </li>
+            <li>
+            <a class="flag rw" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Rwanda">Rwanda</a>
+            </li>
+            <li>
+            <a class="flag za" href="https://www.tvsmotor.com/en/za" target="_blank" rel="noopener noreferrer" title="South Africa ">South Africa </a>
+            </li>
+            <li>
+            <a class="flag sa" href="https://www.tvsmotor.com/en/sa" target="_blank" rel="noopener noreferrer" title="Saudi Arabia">Saudi Arabia</a>
+            </li>
+            <li>
+            <a class="flag sg" href="https://www.tvsmotor.com/en/sg" target="_blank" rel="noopener noreferrer" title="Singapore">Singapore</a>
+            </li>
+            <li>
+            <a class="flag sl" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Sierra Leone">Sierra Leone</a>
+            </li>
+            <li>
+            <a class="flag lk" href="http://tvslanka.lk/" target="_blank" rel="noopener noreferrer" title="Sri Lanka">Sri Lanka</a>
+            </li>
+            <li>
+            <a class="flag tz" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Tanzania">Tanzania</a>
+            </li>
+            <li>
+            <a class="flag tg" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Togo">Togo</a>
+            </li>
+            <li>
+            <a class="flag tr" href="https://www.tvsturkiye.com/" target="_blank" rel="noopener noreferrer" title="Turkey">Turkey</a>
+            </li>
+            <li>
+            <a class="flag ug" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Uganda">Uganda</a>
+            </li>
+            <li>
+            <a class="flag ar" href="https://www.tvsmotor.com/en/ae" target="_blank" rel="noopener noreferrer" title="India">United Arab Emirates</a>
+            </li>
+            <li>
+            <a class="flag vn" href="https://www.tvsmotor.com/en/vn" target="_blank" rel="noopener noreferrer" title="Vietnam">Vietnam</a>
+            </li>
+        </ul>
+        </div>
+        </div>
+        </div>
+    - ID: "4a8d716b-d5ed-4b4c-8b39-d3a334336704"
+      Hint: NavigationCategory
+      Value: |
+        {10980587-5F20-463D-9A36-29BC5673902D}
+        {3137F27C-9DB6-45A6-8A9C-5288E34B0A66}
+        {38E51128-3EB0-4743-A7EC-42B00055E0CF}
+        {319834A1-BA62-40B8-8BDB-029AD29FC57B}
+        {C46C895D-0DE3-4AEA-BD83-7BC499513664}
+    - ID: "51b6844a-4402-410e-adbf-0c39c74e9e27"
+      Hint: CookiePolicyLink
+      Value: |
+        <link linktype="external" url="https://uat-www.tvsmotor.net/cookie-policy" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5ab41a21-3f27-4c60-a10a-55df673104ff"
+      Hint: TelNo
+      Value: 18002587555
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "7496b718-f5c9-4086-816e-cc1c44bb844a"
+      Hint: Email
+      Value: customercare@tvsmotor.com
+    - ID: "7a172422-6795-4835-862a-aaa179a06abb"
+      Hint: AppStoreLink
+      Value: |
+        <link linktype="external" url="https://play.google.com/store/apps/details?id=com.tvsm.connect&amp;hl=en&amp;pli=1" anchor="" target="_blank" />
+    - ID: "8501a8d9-0707-41dd-91f0-00dcfbd717cd"
+      Hint: LogoImg
+      Value: |
+        <image mediaid="{B73F63D7-7F21-493E-9A7C-4202EE9B8B16}" />
+    - ID: "8a2cd5a0-5e00-43b0-9cbf-86f962c4f995"
+      Hint: CookiePolicyTxt
+      Value: Cookie Policy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef807fd1-8c4e-4650-9a01-342112f92302"
+    - ID: "9fa82d74-1d8d-4aa8-88bd-69361a75bb35"
+      Hint: PrivacyLink
+      Value: |
+        <link linktype="external" url="https://uat-www.tvsmotor.net/privacy-policy" anchor="" target="_blank" />
+    - ID: "a52ccec2-e8f0-4b1c-8918-91360a2fd525"
+      Hint: DisclaimerLink
+      Value: |
+        <link linktype="external" url="https://uat-www.tvsmotor.net/disclaimer" anchor="" target="_blank" />
+    - ID: "b75960e8-3499-4988-a456-581c04e98a20"
+      Hint: ContactHeader
+      Value: REACH US
+    - ID: "ba217a7d-58a4-4b3b-a62d-9fe5ded1b1ff"
+      Hint: heading
+      Value: test
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "bb4129b3-a8d4-48ea-8dac-09998aabf53d"
+      Hint: EmailIcon
+      Value: |
+        <image mediaid="{DD2E601B-1468-459F-94CE-FB019558F2CD}" />
+    - ID: "bd16ec39-e808-460e-8e1b-2bd2243797ff"
+      Hint: PrivacyTxt
+      Value: Privacy Policy
+    - ID: "bf605977-6b87-439a-b55b-3458aba024aa"
+      Hint: AppStoreImg
+      Value: |
+        <image mediaid="{9A339856-3962-4764-96E9-C233F55AFB32}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240323T212630Z
+    - ID: "e10326fd-99a5-42b9-8996-df5b0498d76c"
+      Hint: GoogleStoreImg
+      Value: |
+        <image mediaid="{D4234C61-F4BF-403F-A0CB-04B25C7CA855}" />
+    - ID: "f0ab8f2c-c5a5-4c10-b0e8-4e127b213212"
+      Hint: ReservedTxt
+      Value: &copy; TVS Motor Company. All Rights Reserved
+    - ID: "fb4f8ad8-7f9e-4e3f-93a8-0ecaff6dc54a"
+      Hint: DisclaimerTxt
+      Value: Disclaimer
+    - ID: "fdcdc984-f00a-4d7d-9467-00141f8c7387"
+      Hint: ConnectHeading
+      Value: TVS CONNECT APP
+  - Version: 2
+    Fields:
+    - ID: "1ecce211-93bc-4257-aeb1-d440aa98f900"
+      Hint: SocialHeader
+      Value: FOLLOW US
+    - ID: "1f98d945-a5da-4fe4-afa8-abd46c90030b"
+      Hint: TelIcon
+      Value: |
+        <image mediaid="{B6895E19-D577-4F3F-90FF-4FACF52E14B1}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240318T113400Z
+    - ID: "2ce1a4ee-5039-4e8b-a136-82cf719b62da"
+      Hint: GoogleStoreLink
+      Value: |
+        <link linktype="external" url="https://play.google.com/store/apps/details?id=com.tvsm.connect&amp;hl=en&amp;pli=1" anchor="" target="_blank" />
+    - ID: "2e3bb3cc-5806-43ff-8bae-5d511c7cbfe5"
+      Hint: IconList
+      Value: |
+        {2C6F0A70-4B80-4929-B299-B21E0162780E}
+        {CFA1F9AF-2436-4B40-B810-76E20302813E}
+        {43D341A8-FF3E-415F-86D3-9BEAB54D9EE6}
+        {FB2383C1-F33B-4B9E-9FB4-0BE8E7F4A207}
+        {B5976B2F-A998-408D-A566-97B85AD37F54}
+    - ID: "459fd2f3-6807-490d-9be1-b4e821121d63"
+      Hint: body
+      Value: |
+        <div class="col-md-6 country-dropdown">
+        <div class="country">
+        <div id="countryMobileFooter" class="select f16">
+        <a class="flag in">IND</a>
+        </div>
+        <div id="countryMobileFooter-drop" class="dropdown" style="display: none;">
+        <ul class="f16">
+            <li class="active">
+            <a class="flag in" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="India">INDIA</a>
+            </li>
+            <li>
+            <a class="flag arg" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Argentina">Argentina</a>
+            </li>
+            <li>
+            <a class="flag bj" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Benin">Benin</a>
+            </li>
+            <li>
+            <a class="flag bf" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Burkina Faso">Burkina Faso</a>
+            </li>
+            <li>
+            <a class="flag bg" href="http://www.tvsabl.com/" target="_blank" rel="noopener noreferrer" title="Bangladesh">Bangladesh</a>
+            </li>
+            <li>
+            <a class="flag bol" href="https://www.tvsmotor.com/en/bo" target="_blank" rel="noopener noreferrer" title="Bolivia">Bolivia</a>
+            </li>
+            <li>
+            <a class="flag bi" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Burundi">Burundi</a>
+            </li>
+            <li>
+            <a class="flag cr" href="https://www.tvsmotor.com/en/cr" target="_blank" rel="noopener noreferrer" title="Costa Rica ">Costa Rica </a>
+            </li>
+            <li>
+            <a class="flag cd" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Congo DR">Congo DR</a>
+            </li>
+            <li>
+            <a class="flag co" href="https://www.tvsmotor.com/en/co" target="_blank" rel="noopener noreferrer" title="Colombia">Colombia</a>
+            </li>
+            <li>
+            <a class="flag cl" href="https://tvsmotor.cl/" target="_blank" rel="noopener noreferrer" title="Chile">Chile</a>
+            </li>
+            <li>
+            <a class="flag do" href="https://tvsmotor.com.do/" target="_blank" rel="noopener noreferrer" title="Dominican Republic">Dominican Republic</a>
+            </li>
+            <li>
+            <a class="flag ec" href="https://www.tvsmotor.com/en/ec" target="_blank" rel="noopener noreferrer" title="Ecuador">Ecuador</a>
+            </li>
+            <li>
+            <a class="flag et" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Ethiopia">Ethiopia</a>
+            </li>
+            <li>
+            <a class="flag eg" href="https://www.tvsmotor.com/ar/eg" target="_blank" rel="noopener noreferrer" title="Egypt">Egypt</a>
+            </li>
+            <li>
+            <a class="flag sl" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="El Salvador">El Salvador</a>
+            </li>
+            <li>
+            <a class="flag geo" href="http://tvsgeorgia.ge/en/" target="_blank" rel="noopener noreferrer" title="Georgia">Georgia</a>
+            </li>
+            <li>
+            <a class="flag gh" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Ghana">Ghana</a>
+            </li>
+            <li>
+            <a class="flag gn" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Guinea">Guinea</a>
+            </li>
+            <li>
+            <a class="flag gt" href="https://www.tvsmotor.com/en/gt" target="_blank" rel="noopener noreferrer" title="Guatemala">Guatemala</a>
+            </li>
+            <li>
+            <a class="flag ht" href="https://www.tvsmotor.com/en/ht" target="_blank" rel="noopener noreferrer" title="Haiti">Haiti</a>
+            </li>
+            <li>
+            <a class="flag hn" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Honduras">Honduras</a>
+            </li>
+            <li>
+            <a class="flag iq" href="https://www.tvsmotor.com/en/iq" target="_blank" rel="noopener noreferrer" title="Iraq">Iraq</a>
+            </li>
+            <li>
+            <a class="flag ke" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Kenya">Kenya</a>
+            </li>
+            <li>
+            <a class="flag kw" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Kuwait">Kuwait</a>
+            </li>
+            <li>
+            <a class="flag lr" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Liberia">Liberia</a>
+            </li>
+            <li>
+            <a class="flag mg" href="https://www.tvsmotor.com/en/mg" target="_blank" rel="noopener noreferrer" title="Madagascar">Madagascar</a>
+            </li>
+            <li>
+            <a class="flag ml" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Mali">Mali</a>
+            </li>
+            <li>
+            <a class="flag mr" href="https://www.tvsmotor.com/en/mr" target="_blank" rel="noopener noreferrer" title="Mauritania">Mauritania</a>
+            </li>
+            <li>
+            <a class="flag mx" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Mexico">Mexico</a>
+            </li>
+            <li>
+            <a class="flag mm" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Myanmar">Myanmar</a>
+            </li>
+            <li>
+            <a class="flag np" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Nepal">Nepal</a>
+            </li>
+            <li>
+            <a class="flag ni" href="https://www.tvsmotor.com/es/ni" target="_blank" rel="noopener noreferrer" title="Nigeria">Nigeria</a>
+            </li>
+            <li>
+            <a class="flag ng" href="https://tvsnigeria.com/" target="_blank" rel="noopener noreferrer" title="Nigeria">Nigeria</a>
+            </li>
+            <li>
+            <a class="flag pa" href="https://www.tvsmotor.com/es/pa" target="_blank" rel="noopener noreferrer" title="Panama">Panama</a>
+            </li>
+            <li>
+            <a class="flag pe" href="https://tvsperu.com/" target="_blank" rel="noopener noreferrer" title="Peru">Peru</a>
+            </li>
+            <li>
+            <a class="flag ph" href="https://www.tvsmotor.com/en/ph" target="_blank" rel="noopener noreferrer" title="Philippines">Philippines</a>
+            </li>
+            <li>
+            <a class="flag rw" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Rwanda">Rwanda</a>
+            </li>
+            <li>
+            <a class="flag za" href="https://www.tvsmotor.com/en/za" target="_blank" rel="noopener noreferrer" title="South Africa ">South Africa </a>
+            </li>
+            <li>
+            <a class="flag sa" href="https://www.tvsmotor.com/en/sa" target="_blank" rel="noopener noreferrer" title="Saudi Arabia">Saudi Arabia</a>
+            </li>
+            <li>
+            <a class="flag sg" href="https://www.tvsmotor.com/en/sg" target="_blank" rel="noopener noreferrer" title="Singapore">Singapore</a>
+            </li>
+            <li>
+            <a class="flag sl" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Sierra Leone">Sierra Leone</a>
+            </li>
+            <li>
+            <a class="flag lk" href="http://tvslanka.lk/" target="_blank" rel="noopener noreferrer" title="Sri Lanka">Sri Lanka</a>
+            </li>
+            <li>
+            <a class="flag tz" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Tanzania">Tanzania</a>
+            </li>
+            <li>
+            <a class="flag tg" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Togo">Togo</a>
+            </li>
+            <li>
+            <a class="flag tr" href="https://www.tvsturkiye.com/" target="_blank" rel="noopener noreferrer" title="Turkey">Turkey</a>
+            </li>
+            <li>
+            <a class="flag ug" href="https://www.tvsmotor.com/international-business" target="_blank" rel="noopener noreferrer" title="Uganda">Uganda</a>
+            </li>
+            <li>
+            <a class="flag ar" href="https://www.tvsmotor.com/en/ae" target="_blank" rel="noopener noreferrer" title="India">United Arab Emirates</a>
+            </li>
+            <li>
+            <a class="flag vn" href="https://www.tvsmotor.com/en/vn" target="_blank" rel="noopener noreferrer" title="Vietnam">Vietnam</a>
+            </li>
+        </ul>
+        </div>
+        </div>
+        </div>
+    - ID: "4a8d716b-d5ed-4b4c-8b39-d3a334336704"
+      Hint: NavigationCategory
+      Value: |
+        {10980587-5F20-463D-9A36-29BC5673902D}
+        {3137F27C-9DB6-45A6-8A9C-5288E34B0A66}
+        {38E51128-3EB0-4743-A7EC-42B00055E0CF}
+        {319834A1-BA62-40B8-8BDB-029AD29FC57B}
+        {C46C895D-0DE3-4AEA-BD83-7BC499513664}
+    - ID: "51b6844a-4402-410e-adbf-0c39c74e9e27"
+      Hint: CookiePolicyLink
+      Value: |
+        <link linktype="external" url="https://www.tvsmotor.com/cookie-policy" anchor="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5ab41a21-3f27-4c60-a10a-55df673104ff"
+      Hint: TelNo
+      Value: 18002587555
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "7496b718-f5c9-4086-816e-cc1c44bb844a"
+      Hint: Email
+      Value: customercare@tvsmotor.com
+    - ID: "7a172422-6795-4835-862a-aaa179a06abb"
+      Hint: AppStoreLink
+      Value: |
+        <link linktype="external" url="https://play.google.com/store/apps/details?id=com.tvsm.connect&amp;hl=en&amp;pli=1" anchor="" target="_blank" />
+    - ID: "8501a8d9-0707-41dd-91f0-00dcfbd717cd"
+      Hint: LogoImg
+      Value: |
+        <image mediaid="{8B5DD6CF-64F3-47CA-8C72-3C49D8FDE743}" />
+    - ID: "8a2cd5a0-5e00-43b0-9cbf-86f962c4f995"
+      Hint: CookiePolicyTxt
+      Value: Cookie Policy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23e134cb-8415-4bbd-a6dc-59e16203f9af"
+    - ID: "9fa82d74-1d8d-4aa8-88bd-69361a75bb35"
+      Hint: PrivacyLink
+      Value: |
+        <link linktype="external" url="https://www.tvsmotor.com/privacy-policy" anchor="" target="_blank" />
+    - ID: "a52ccec2-e8f0-4b1c-8918-91360a2fd525"
+      Hint: DisclaimerLink
+      Value: |
+        <link linktype="external" url="https://www.tvsmotor.com/disclaimer" anchor="" target="" />
+    - ID: "b75960e8-3499-4988-a456-581c04e98a20"
+      Hint: ContactHeader
+      Value: REACH US
+    - ID: "ba217a7d-58a4-4b3b-a62d-9fe5ded1b1ff"
+      Hint: heading
+      Value: test
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "bb4129b3-a8d4-48ea-8dac-09998aabf53d"
+      Hint: EmailIcon
+      Value: |
+        <image mediaid="{10176ECC-8BBA-4463-8FD1-E06A0A37FAFB}" />
+    - ID: "bd16ec39-e808-460e-8e1b-2bd2243797ff"
+      Hint: PrivacyTxt
+      Value: Privacy Policy
+    - ID: "bf605977-6b87-439a-b55b-3458aba024aa"
+      Hint: AppStoreImg
+      Value: |
+        <image mediaid="{7245C936-D857-4C09-A296-075BB85BFF6E}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T070343Z
+    - ID: "e10326fd-99a5-42b9-8996-df5b0498d76c"
+      Hint: GoogleStoreImg
+      Value: |
+        <image mediaid="{77315CF5-592E-4F5A-8E21-58144E20F721}" />
+    - ID: "f0ab8f2c-c5a5-4c10-b0e8-4e127b213212"
+      Hint: ReservedTxt
+      Value: &copy; TVS Motor Company. All Rights Reserved
+    - ID: "fb4f8ad8-7f9e-4e3f-93a8-0ecaff6dc54a"
+      Hint: DisclaimerTxt
+      Value: Disclaimer
+    - ID: "fdcdc984-f00a-4d7d-9467-00141f8c7387"
+      Hint: ConnectHeading
+      Value: TVS CONNECT APP

@@ -1,0 +1,29 @@
+﻿---
+ID: "c3c786e5-acc3-4a39-ba4f-d7d1311becb4"
+Parent: "20527b27-4db7-4e50-b222-bea9a2b91f13"
+Template: "20527b27-4db7-4e50-b222-bea9a2b91f13"
+Path: "/sitecore/templates/Project/tvs-website-app/Base Page/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240322T121138Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b396d97-a9af-4bbf-adf2-cb508e1aad38"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240322T121138Z

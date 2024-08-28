@@ -1,0 +1,38 @@
+﻿---
+ID: "d7b9af49-545b-4245-9ea5-ed50d53cc6c9"
+Parent: "2092a365-efce-4d8c-9cf6-abba19517631"
+Template: "c6128e0b-dceb-45a7-a3ac-31b935e577b3"
+Path: "/sitecore/content/tvs-website-app/Content/Shared/Global Header/Navigation/MEDIA/Blogs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240321T125041Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "55de327a-f17a-46cc-9e08-be211b4721c1"
+      Hint: NavigationLink
+      Value: |
+        <link linktype="external" url="/media/blog/overview" anchor="" target="" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6ed59858-7ade-4b74-9bbc-c4ae9b316cb9"
+      Hint: NavigationTitle
+      Value: Blog
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba85c680-87ea-4bb5-b1fe-fce458e420dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240321T125601Z

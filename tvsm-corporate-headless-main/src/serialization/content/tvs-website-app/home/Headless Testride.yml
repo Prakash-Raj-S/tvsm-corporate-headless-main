@@ -1,0 +1,41 @@
+﻿---
+ID: "f85b1277-44e8-4a7c-9c48-fc42ac2cf011"
+Parent: "6adbb04d-90db-57bd-9bb1-4ebf3807da40"
+Template: "4bc97a82-0323-4a94-a879-af4e96e8fd18"
+Path: "/sitecore/content/tvs-website-app/home/Headless Testride"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240311T120133Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4336bead-bbf5-4281-95e5-b7d4d16cf122"
+      Hint: VehiclePath
+      Value: |
+        {D942D71D-7B16-4FB9-963E-F624CDE20743}
+        {27A9FC4B-902E-4222-B021-1320DCC809CA}
+        {219CD134-7FF4-4D2F-98DE-3155E9DCAB9A}
+        {A19387C0-FFE8-408D-9940-BC03E8318708}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e16203f8-62b0-4c97-a8bd-8bc0c054ae52"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240311T182357Z

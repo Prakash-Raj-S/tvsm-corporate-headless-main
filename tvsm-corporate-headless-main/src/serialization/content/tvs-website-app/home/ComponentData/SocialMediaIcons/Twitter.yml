@@ -1,0 +1,70 @@
+﻿---
+ID: "2c6f0a70-4b80-4929-b299-b21e0162780e"
+Parent: "6bfb5be9-9689-43f1-bf33-6bddcabb1c72"
+Template: "14501da7-f1e2-4cf2-962c-33744fbf519f"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/SocialMediaIcons/Twitter"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22d41536-a1f1-4527-a15e-5cfd7d6229c2"
+      Hint: IconImg
+      Value: |
+        <image mediaid="{8CAEE8B3-70CE-4165-B1EA-FD140BB38231}" />
+    - ID: "25109572-e962-4215-b760-a2902b67d871"
+      Hint: IconLink
+      Value: |
+        <link linktype="external" url="https://twitter.com/tvsmotorcompany" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240322T085047Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e81b6d4-d036-462f-b9f8-12e1f44e9b88"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240322T085347Z
+  - Version: 2
+    Fields:
+    - ID: "22d41536-a1f1-4527-a15e-5cfd7d6229c2"
+      Hint: IconImg
+      Value: |
+        <image mediaid="{57F8E82C-7521-400F-8EF3-296D956CAA98}" />
+    - ID: "25109572-e962-4215-b760-a2902b67d871"
+      Hint: IconLink
+      Value: |
+        <link linktype="external" url="https://twitter.com/tvsmotorcompany" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240322T085047Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5a5ba33-d8d0-40a2-aeaf-6bb61c4a517f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T063836Z

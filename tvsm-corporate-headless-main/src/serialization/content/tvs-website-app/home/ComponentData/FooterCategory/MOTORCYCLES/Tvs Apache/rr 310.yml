@@ -1,0 +1,72 @@
+﻿---
+ID: "f61af673-011a-4548-9920-ec7960a437f1"
+Parent: "67c7f706-8db3-409c-88ea-18527aabfbea"
+Template: "5d86a188-792c-4efa-b338-a20e0614d36e"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/FooterCategory/MOTORCYCLES/Tvs Apache/rr 310"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T103245Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f74e0c0-50a9-491d-a7dc-df793f4f3aa5"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{24C42013-85AA-4E0B-B461-D89421B0A7F6}" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: RR 310
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240319T104624Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T103245Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f665f838-1090-4278-a9db-ba9024fa7f1d"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.tvsmotor.com/tvs-apache/rr-310" anchor="" target="" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: RR 310
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T061224Z

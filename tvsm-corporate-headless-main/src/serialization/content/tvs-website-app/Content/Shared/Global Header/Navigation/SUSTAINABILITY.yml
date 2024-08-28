@@ -1,0 +1,40 @@
+﻿---
+ID: "8c17c515-f952-4a89-8cb0-547896d512c0"
+Parent: "de73a139-5999-4ad0-a618-90d9fdbbb4ca"
+Template: "c6128e0b-dceb-45a7-a3ac-31b935e577b3"
+Path: "/sitecore/content/tvs-website-app/Content/Shared/Global Header/Navigation/SUSTAINABILITY"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240302T175338Z
+    - ID: "55de327a-f17a-46cc-9e08-be211b4721c1"
+      Hint: NavigationLink
+      Value: |
+        <link linktype="external" url="/about-us/achievements" anchor="" target="" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6ed59858-7ade-4b74-9bbc-c4ae9b316cb9"
+      Hint: NavigationTitle
+      Value: SUSTAINABILITY
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22cba8a9-4df5-4107-928e-84e9f16837d1"
+    - ID: "8de963b4-1cd7-446e-a496-3d156ddf75d9"
+      Hint: ChildMenu
+      Value: "{BEAAA7BC-D154-4936-AF27-18DB0A0AAA44}"
+    - ID: "9b253c5f-ea4a-44fa-92b6-720d76d354f8"
+      Hint: HasChildLevelNavigation
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240321T125146Z

@@ -1,0 +1,46 @@
+﻿---
+ID: "71083787-9346-4bc8-aa65-eedfd953bc31"
+Parent: "9ba22c2a-98f1-4c2b-9b51-f4f1fc3969b8"
+Template: "9ba22c2a-98f1-4c2b-9b51-f4f1fc3969b8"
+Path: /sitecore/templates/Feature/Tvs Headless/Testride/_TestRideLabel/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b53e9e7-5278-4e4e-ba76-7550a1065263"
+      Hint: LabelName
+      Value: Name is required
+    - ID: "19522c35-e43b-4ea7-b7f9-5c5f3aae9af5"
+      Hint: LabelVehicles
+      Value: Mobile is required
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240311T122020Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca287339-37ea-4e54-8ebb-a01176e445ef"
+    - ID: "a487ad57-c78a-4474-b6b0-1fa9567f0597"
+      Hint: LabelMobile
+      Value: Name should be alphabets only
+    - ID: "b4bc7c57-02d8-4625-a384-55bbd6501c0d"
+      Hint: LabelOTP
+      Value: Name should have a minimum 3 characters
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240311T180515Z
+    - ID: "e5358757-80c3-4fb6-a8fb-0317524a9998"
+      Hint: LabelPincode
+      Value: Mobile

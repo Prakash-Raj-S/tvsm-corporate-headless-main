@@ -1,0 +1,70 @@
+﻿---
+ID: "6685296f-fd64-5d29-a7a4-e2f4821003ac"
+Parent: "b3c008af-cc35-559d-80d4-ae70b205f6c2"
+Template: "b3c008af-cc35-559d-80d4-ae70b205f6c2"
+Path: "/sitecore/templates/Project/tvs-website-app/App Route/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{B3C008AF-CC35-559D-80D4-AE70B205F6C2}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            l="{933DD280-578A-538F-9DB7-7624CD9AD22F}">
+            <r
+              cac="1"
+              ds="{13121F7E-5970-4DE3-AA5C-C162616E5C26}"
+              id="{3FB5F50F-39C9-45CA-854E-DB0C6821F6E2}"
+              par=""
+              ph="/jss-header"
+              uid="{DA4585F1-7EA9-40C4-A121-27BDE224A196}"
+              vbd="1"
+              ciu="1"
+              ccb="Clear on publish" />
+            <r
+              cac="1"
+              ds="{6953214D-B345-4C45-89B6-85519392B5CD}"
+              id="{3EE183B0-7DE8-4FE0-8C22-B24BC5520A63}"
+              par=""
+              ph="/jss-footer"
+              uid="{953C2E6A-E715-4C01-B07F-0934BB6B865D}"
+              vbd="1"
+              ciu="1"
+              ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240219T091837Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4eabc28-d915-4e96-a40c-cfd04fe20009"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240328T055354Z

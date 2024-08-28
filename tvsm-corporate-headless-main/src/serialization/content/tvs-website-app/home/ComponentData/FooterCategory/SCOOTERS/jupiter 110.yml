@@ -1,0 +1,68 @@
+﻿---
+ID: "e431bbb7-5313-4ebc-9916-0d3525cc5c92"
+Parent: "3137f27c-9db6-45a6-8a9c-5288e34b0a66"
+Template: "5d86a188-792c-4efa-b338-a20e0614d36e"
+Path: "/sitecore/content/tvs-website-app/home/ComponentData/FooterCategory/SCOOTERS/jupiter 110"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T105716Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b290a1e-b4d7-48cb-a0ed-05cdd3a83eba"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{843E6BFA-5B3B-4AC3-BD76-748AC2DDEE3F}" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: Jupiter 110
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240319T105755Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T105716Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e7de187-efc9-48a7-8c82-39a39cc8f008"
+    - ID: "9ff80436-963f-43a7-a83c-b26461cfc29d"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.tvsmotor.com/tvs-jupiter" anchor="" target="" />
+    - ID: "a2a39bf4-2ccb-4368-aa02-aaba2baf0af8"
+      Hint: Title
+      Value: Jupiter 110
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Et5j1vv0nu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T061532Z
